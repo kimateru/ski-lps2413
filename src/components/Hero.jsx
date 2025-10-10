@@ -20,10 +20,12 @@ const Hero = () => {
                     <p className='text-5xl font-semibold leading-tight'>A snowy paradise for your holiday with care and comfort. Inspiring slopes and a warm atmosphere.</p>
                 </div>
             </div>
-            <div className='uppercase font-lanze text-[320px] flex items-start leading-none mt-[70px] gap-4'>
-                <span>ski</span>
-                <img src="/images/hero.jpeg" alt="hero" className='h-[0.82em] w-[1.15em] object-cover rounded-xl'/>
-                <span>resort</span>
+            <div className='uppercase font-lanze text-[320px] flex items-start leading-none mt-[70px]'>
+                <div className='w-1/2 flex items-start gap-4'>
+                    <span>ski</span>
+                    <img src="/images/hero.jpeg" alt="hero" className='h-[0.82em] w-[1.15em] object-cover rounded-xl'/>
+                </div>
+                <span className='w-1/2 -ml-4'>resort</span>
             </div>
         </section>
     )
