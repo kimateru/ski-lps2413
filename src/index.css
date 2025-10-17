@@ -60,6 +60,7 @@
 
 body {
     color: var(--color-primary);
+    background-color: #f5f1ec;
 }
 
 .container-custom {

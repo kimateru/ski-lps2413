@@ -1,0 +1,161 @@
+{
+  "categories": [
+    {
+      "id": "fun",
+      "name": "Fun parties",
+      "description": "Après-ski parties, snow festivals, and mountain night events full of fun and energy.",
+      "events": [
+        {
+          "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800&q=80",
+          "title": "Alpine Night Bash",
+          "tags": {
+            "date": "December 28, 2025",
+            "time": "9:00 PM",
+            "location": "Main Lodge"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1516681842035-a1633865b6f0?w=800&q=80",
+          "title": "Snow Glow Party",
+          "tags": {
+            "date": "January 10, 2026",
+            "time": "8:30 PM",
+            "location": "Ice Dome Area"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1483366774565-c783b9f70e2c?w=800&q=80",
+          "title": "Mountain Beats Festival",
+          "tags": {
+            "date": "February 2, 2026",
+            "time": "6:00 PM",
+            "location": "Village Square"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&q=80",
+          "title": "Fireworks Spectacular",
+          "tags": {
+            "date": "December 31, 2025",
+            "time": "11:00 PM",
+            "location": "Summit Peak"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800&q=80",
+          "title": "Live DJ Night",
+          "tags": {
+            "date": "January 18, 2026",
+            "time": "10:00 PM",
+            "location": "Base Camp Lounge"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sporting",
+      "name": "Sporting events",
+      "description": "Take part in thrilling competitions and test your skills on the resort's top slopes. The program includes races, tournaments, and marathons.",
+      "events": [
+        {
+          "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=800&q=80",
+          "title": "World Snowboard Cup",
+          "tags": {
+            "date": "January 15, 2026",
+            "time": "9:00 AM",
+            "location": "Northern Slope"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=800&q=80",
+          "title": "European Ski Slalom Championship",
+          "tags": {
+            "date": "February 12, 2026",
+            "time": "8:30 AM",
+            "location": "Central Slope"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1526237307904-8aae2a7d7f0b?w=800&q=80",
+          "title": "Freestyle Snow Jam",
+          "tags": {
+            "date": "March 5, 2026",
+            "time": "10:00 AM",
+            "location": "Sunset Ridge"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1483082215548-e0e9bebd5daa?w=800&q=80",
+          "title": "Ice Climbing Championship",
+          "tags": {
+            "date": "February 20, 2026",
+            "time": "7:00 AM",
+            "location": "Frozen Falls"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1551582045-6ec9c11d8697?w=800&q=80",
+          "title": "Cross-Country Ski Marathon",
+          "tags": {
+            "date": "March 15, 2026",
+            "time": "8:00 AM",
+            "location": "Nordic Trail"
+          }
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family programs",
+      "description": "Family-friendly winter adventures, safe slopes, and fun snow activities for all ages.",
+      "events": [
+        {
+          "image": "https://images.unsplash.com/photo-1605540436563-5bca919ae766?w=800&q=80",
+          "title": "Kids' Snow Adventure Day",
+          "tags": {
+            "date": "December 22, 2025",
+            "time": "10:00 AM",
+            "location": "Beginner's Hill"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1542223092-4fe5c1e2b5b8?w=800&q=80",
+          "title": "Family Toboggan Run",
+          "tags": {
+            "date": "January 5, 2026",
+            "time": "11:00 AM",
+            "location": "Tubing Park"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1484318571209-661cf29a69c3?w=800&q=80",
+          "title": "Snow Sculpture Workshop",
+          "tags": {
+            "date": "February 20, 2026",
+            "time": "1:00 PM",
+            "location": "Kids Zone"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=800&q=80",
+          "title": "Snowman Building Contest",
+          "tags": {
+            "date": "January 12, 2026",
+            "time": "2:00 PM",
+            "location": "Family Park"
+          }
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&q=80",
+          "title": "Hot Cocoa & Stories Evening",
+          "tags": {
+            "date": "December 25, 2025",
+            "time": "4:00 PM",
+            "location": "Fireside Cabin"
+          }
+        }
+      ]
+    }
+  ]
+}
+
