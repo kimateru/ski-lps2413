@@ -19,7 +19,7 @@ const App = () => {
   return (
 
     <Router>
-      <div className='container mx-auto'>
+      <div className='container-custom mx-auto'>
         <Routes>
           <Route element={<Layout />}>
             <Route path="/" element={<Home />} />
