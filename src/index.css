@@ -74,3 +74,8 @@ body {
 }
 
 
+/* 
+1).
+a) modificati fiecare produs in db.json asa ca sa fie descriptie pentru fiecare produs.
+b) Creati un button "view" in cartonasul fiecarui produs din rentpage ce va reprezinta pagina de vizualizare a produsului. Pe pagina data aratati informatia aditionala despre produs si un button add to cart.
+*/
